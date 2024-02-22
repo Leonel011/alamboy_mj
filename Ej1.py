@@ -1,1 +1,1 @@
-print("Bienvenidos al curso de COMP2315")
+print("Hello World")
