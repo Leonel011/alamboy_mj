@@ -1,0 +1,5 @@
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\obj\Debug\net8.0\LabsC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\obj\Debug\net8.0\LabsC#.AssemblyInfoInputs.cache
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\obj\Debug\net8.0\LabsC#.AssemblyInfo.cs
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\obj\Debug\net8.0\LabsC#.csproj.CoreCompileInputs.cache
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\obj\Debug\net8.0\LabsC#.sourcelink.json
