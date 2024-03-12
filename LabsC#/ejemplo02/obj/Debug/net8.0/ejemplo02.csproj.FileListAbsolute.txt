@@ -1,0 +1,15 @@
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\ejemplo02\bin\Debug\net8.0\ejemplo02.exe
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\ejemplo02\bin\Debug\net8.0\ejemplo02.deps.json
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\ejemplo02\bin\Debug\net8.0\ejemplo02.runtimeconfig.json
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\ejemplo02\bin\Debug\net8.0\ejemplo02.dll
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\ejemplo02\bin\Debug\net8.0\ejemplo02.pdb
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\ejemplo02\obj\Debug\net8.0\ejemplo02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\ejemplo02\obj\Debug\net8.0\ejemplo02.AssemblyInfoInputs.cache
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\ejemplo02\obj\Debug\net8.0\ejemplo02.AssemblyInfo.cs
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\ejemplo02\obj\Debug\net8.0\ejemplo02.csproj.CoreCompileInputs.cache
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\ejemplo02\obj\Debug\net8.0\ejemplo02.sourcelink.json
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\ejemplo02\obj\Debug\net8.0\ejemplo02.dll
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\ejemplo02\obj\Debug\net8.0\refint\ejemplo02.dll
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\ejemplo02\obj\Debug\net8.0\ejemplo02.pdb
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\ejemplo02\obj\Debug\net8.0\ejemplo02.genruntimeconfig.cache
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\ejemplo02\obj\Debug\net8.0\ref\ejemplo02.dll
