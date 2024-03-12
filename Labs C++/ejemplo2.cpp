@@ -19,6 +19,7 @@ int main()
     cin >> caracter;
 
     cout << "Ingrese una cadena de caracteres: ";
+    cin.ignore();
     getline(cin, cadena);
 
     return 0;
