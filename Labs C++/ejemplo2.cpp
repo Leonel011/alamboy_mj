@@ -20,7 +20,6 @@ int main()
 
     cout << "Ingrese una cadena de caracteres: ";
     getline(cin, cadena);
-    cadena;
 
     return 0;
 }
