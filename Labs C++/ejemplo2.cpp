@@ -16,11 +16,11 @@ int main()
     cin >> flotante;
 
     cout << "Ingrese un caracter: ";
-    cin>> caracter;
+    cin >> caracter;
 
     cout << "Ingrese una cadena de caracteres: ";
     getline(cin, cadena);
-    cadena
+    cadena;
 
     return 0;
 }
