@@ -1,0 +1,1 @@
+//Desarrolla un algoritmo que calcule la distancia total recorrida en un viaje,dada la velocidad promedio y el tiempo de viaje.
