@@ -21,7 +21,7 @@ int main()
     }
     catch(const char* mensaje)
     {
-        cout<<"Excepcion capturada"<<endl;
+        cout<<"Excepcion capturada "<<mensaje<<endl;
     }
     
     return 0;
