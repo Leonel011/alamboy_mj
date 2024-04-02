@@ -11,7 +11,7 @@ public class App
 
         if (years >= 5 )
         {
-            System.out.println("Will recieve a bonus of 5000");
+            System.out.println("Will recieve a bonus of 1000");
         }
 
         if (years < 5)
