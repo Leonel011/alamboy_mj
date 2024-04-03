@@ -22,4 +22,6 @@ int main()
     else
 
     cout<<"No puede realizar prestamos."<<endl;
+
+    return 0;
 }
