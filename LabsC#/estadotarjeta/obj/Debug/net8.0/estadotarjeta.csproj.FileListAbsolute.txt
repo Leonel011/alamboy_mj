@@ -3,3 +3,13 @@ C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\estad
 C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\estadotarjeta\obj\Debug\net8.0\estadotarjeta.AssemblyInfo.cs
 C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\estadotarjeta\obj\Debug\net8.0\estadotarjeta.csproj.CoreCompileInputs.cache
 C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\estadotarjeta\obj\Debug\net8.0\estadotarjeta.sourcelink.json
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\estadotarjeta\bin\Debug\net8.0\estadotarjeta.exe
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\estadotarjeta\bin\Debug\net8.0\estadotarjeta.deps.json
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\estadotarjeta\bin\Debug\net8.0\estadotarjeta.runtimeconfig.json
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\estadotarjeta\bin\Debug\net8.0\estadotarjeta.dll
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\estadotarjeta\bin\Debug\net8.0\estadotarjeta.pdb
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\estadotarjeta\obj\Debug\net8.0\estadotarjeta.dll
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\estadotarjeta\obj\Debug\net8.0\refint\estadotarjeta.dll
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\estadotarjeta\obj\Debug\net8.0\estadotarjeta.pdb
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\estadotarjeta\obj\Debug\net8.0\estadotarjeta.genruntimeconfig.cache
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\estadotarjeta\obj\Debug\net8.0\ref\estadotarjeta.dll

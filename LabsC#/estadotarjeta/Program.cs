@@ -9,11 +9,13 @@ namespace EstadoTarjeta
     {
         static void Main(string[]args)
 
+//Solicite datos al usuario
         {
             Console.Write("Ingrese el estado de la tarjeta como activa o inactiva: ");
 
-            string estado = string.Parse(Console.ReadLine());
+            string estado = Console.ReadLine();
 
+//Determine si puede o no puede hacer prestamos 
             if (estado == "activa")
             {
                 Console.WriteLine("Puede hacer prestamos.");

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("estadotarjeta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d2ecaf5be279e907ae633497d426e8dab496379")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bab83c3a2e9c69b62fe2350027ebfb094a8ca11")]
 [assembly: System.Reflection.AssemblyProductAttribute("estadotarjeta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("estadotarjeta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
