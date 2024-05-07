@@ -1,0 +1,15 @@
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\promedioTemp\bin\Debug\net8.0\promedioTemp.exe
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\promedioTemp\bin\Debug\net8.0\promedioTemp.deps.json
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\promedioTemp\bin\Debug\net8.0\promedioTemp.runtimeconfig.json
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\promedioTemp\bin\Debug\net8.0\promedioTemp.dll
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\promedioTemp\bin\Debug\net8.0\promedioTemp.pdb
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\promedioTemp\obj\Debug\net8.0\promedioTemp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\promedioTemp\obj\Debug\net8.0\promedioTemp.AssemblyInfoInputs.cache
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\promedioTemp\obj\Debug\net8.0\promedioTemp.AssemblyInfo.cs
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\promedioTemp\obj\Debug\net8.0\promedioTemp.csproj.CoreCompileInputs.cache
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\promedioTemp\obj\Debug\net8.0\promedioTemp.sourcelink.json
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\promedioTemp\obj\Debug\net8.0\promedioTemp.dll
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\promedioTemp\obj\Debug\net8.0\refint\promedioTemp.dll
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\promedioTemp\obj\Debug\net8.0\promedioTemp.pdb
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\promedioTemp\obj\Debug\net8.0\promedioTemp.genruntimeconfig.cache
+C:\Users\adrie\OneDrive\Desktop\Inter\Semestre Jan-May2024\Comp2315\LabsC#\promedioTemp\obj\Debug\net8.0\ref\promedioTemp.dll
